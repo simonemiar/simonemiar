@@ -8,7 +8,7 @@
 
 *   🌍  I'm born, raised and based in Copenhagen
 *   🖥️  See my portfolio at [https://simonemiar.netlify.app/](https://simonemiar.netlify.app/)
-*   ✉️  You can contact me at [https://www.linkedin.com/in/simonemiar/](https://www.linkedin.com/in/simonemiar/)
+*   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/simonemiar/)
 
 
 ### Skills
