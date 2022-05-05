@@ -1,4 +1,4 @@
-# Halløjsovs, I'm Simone 🌹
+# Halløjsovs, I'm Simone 💁🏻‍♀️
 
 ## Frontend Developmen Student
 
