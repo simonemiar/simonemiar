@@ -1,6 +1,6 @@
 # 💁🏻‍♀️ Halløjsovs, I'm Simone 
 
-## Frontend Developmen Student
+## Frontend Development Student
 
 *   🌍  I'm born, raised and based in Copenhagen
 *   🖥️  See my portfolio at [https://simonemiar.netlify.app/](https://simonemiar.netlify.app/)
