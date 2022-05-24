@@ -7,7 +7,7 @@
 *   ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/simonemiar/)
 
 
-(https://activity-graph.herokuapp.com/graph?username=simonemiar&theme=react-dark)](https://github.com/simonemiar/github-readme-activity-graph)
+[![SimoneMiar's github activity graph](https://activity-graph.herokuapp.com/graph?username=simonemiar&theme=react-dark)](https://github.com/simonemiar/github-readme-activity-graph)
 <p align="center" width="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonemiar&layout=compact&theme=tokyonight" />
 </p>
