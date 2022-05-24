@@ -17,6 +17,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
+    <td><img src="[https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg)" width="200"></td>
   </tr>
 </table>
 <p align="left">
