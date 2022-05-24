@@ -8,6 +8,17 @@
 
 
 ## 🔧 TECHNOLOGIES AND TOOLS
+<table>
+  <tr> 
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-1175109.png" width="200"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="200"></td>
+  </tr>
+</table>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
